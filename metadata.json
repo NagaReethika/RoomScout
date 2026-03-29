@@ -1,0 +1,5 @@
+{
+  "name": "RoomScout",
+  "description": "A mini Airbnb clone for finding and booking property stays with authentication, search, and booking features.",
+  "requestFramePermissions": []
+}
